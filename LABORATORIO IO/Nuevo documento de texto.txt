@@ -1,0 +1,11 @@
+Estimados!
+
+Les doy una cordial bienvenida al curso, mi nombre es Francisco Ferrada y seré su encargado del laboratorio de esta sección.
+
+Quiero que sepan que pueden contar conmigo en cualquier instancia en donde necesiten ayuda. Los ayudantes estamos para eso, ayudarlos.
+
+Junto con lo anterior, les envío este mensaje para darles información relevante con respecto a la modalidad que tendrá el laboratorio:
+
+- Será realizado en formato de cápsulas, las cuales se subirán, a excepción de la primera semana, antes de cada sesión. Por consecuencia, la sesión de laboratorio semanal será utilizada para resolver dudas con respecto a lo que fue desarrollado en las cápsulas.
+
+-En la prime

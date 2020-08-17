@@ -1,0 +1,18 @@
+Este mensaje es dirigido para los que tienen mac!
+
+Una vez instalado Python3.8.5, vayan al terminal sigan el siguiente proceso de instalación:
+
+Ejecuten los siguientes comandos, en orden y uno por uno!
+
+    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    python3 get-pip.py
+    python3 -m pip install jupyter
+    pip install pandas numpy tabulate
+
+Recuerden que para correr un comando, deben esperar a que haya terminado el anterior, esto lo saben cuando vuelve a aparecer la linea de comando con el nombre del computador seguido por un $.
+
+Solo los que tienen mac deben seguir estos pasos!!, posterior a esto pueden obviar el resto del documento con instrucciones.
+
+Cualquier duda, por favor escríbanme!
+
+Francisco.
